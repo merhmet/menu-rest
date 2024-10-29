@@ -1,7 +1,7 @@
 .header-h {
         font-size: 35px;
    color: #FFB03B;
-    font-size: 22px;
+    font-size: 19px;
     font-family: 'Satisfy', sans-serif;
     font-weight: 300;
     }
@@ -11,7 +11,7 @@ ul
 }
 .header-p {
   color:#9699a6;
-  font-size:16px;
+  font-size:10px;
 }
 .section-padding{
     padding: 2px 0px;
@@ -23,7 +23,7 @@ ul
 {
   width:50%;
   float:left;
-  padding:15px;
+  padding:7px;
   position:realtive;
   
 }
@@ -57,7 +57,7 @@ ul
   float:left;
   color:#B1B1B1;
    font-family: Satisfy,'Open Sans',arial;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
 }
 .menu-restaurant span.clearfix{
   position:relative;

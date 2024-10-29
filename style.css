@@ -1,7 +1,7 @@
 .header-h {
         font-size: 35px;
    color: #FFB03B;
-    font-size: 46px;
+    font-size: 22px;
     font-family: 'Satisfy', sans-serif;
     font-weight: 300;
     }
@@ -14,10 +14,10 @@ ul
   font-size:16px;
 }
 .section-padding{
-    padding: 60px 0px;
+    padding: 2px 0px;
 }
 .marb-35{
-  margin-bottom:35px;
+  margin-bottom:1px;
 }
 .menu-restaurant
 {
@@ -79,8 +79,8 @@ ul
 }
 #menu-filters ul li a
 {
-  padding:10px 20px;
-  font-size:14px;
+  padding:2px 3px;
+  font-size:12px;
   color:#565656;
   border-radius:0px;
   border:1px solid #BBBBBB;

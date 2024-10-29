@@ -14,7 +14,7 @@ ul
   font-size:10px;
 }
 .section-padding{
-    padding: 2px 0px;
+    padding: 1px 0px;
 }
 .marb-35{
   margin-bottom:1px;
@@ -192,7 +192,7 @@ background-position: center bottom, center -webkit-calc(100% - 1px);
 }
 .phone-in-talk, .hour-icon
 {
-    font-size: 35px;
+    font-size: 10px;
     line-height: 70px;
     color: rgb(255, 255, 255);
 }
